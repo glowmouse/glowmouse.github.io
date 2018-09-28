@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Andrew Brownbill is a professional software developer, amatuer astronomer,
+telescope builder, and 3D Printer Enthusiast.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Check out my page on Thingiverse: https://www.thingiverse.com/glowmouse/about
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andrew.brownbill@gmail.com](mailto:andrew.brownbill@gmail.com)
