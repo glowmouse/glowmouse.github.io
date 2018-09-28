@@ -3,6 +3,8 @@ layout: post
 title: North American Nebula (NGC 7000)
 ---
 
+![_config.yml]({{ site.baseurl }}/images/na_new.jpg)
+
 My attempt at the North America Nebula – you’re looking at Mexico. My 
 collimation is off and you can see it if you zoom in on the stars. The 
 lesson there is to use a star that’s close to what I’m photographing when 
@@ -13,6 +15,4 @@ going to get with my camera and scope. It would be nice to include the
 together. Oh well, I’ll count this one as a learning experience. I made 
 this by combining 28 HA exposures (red), 11 SII exposures (green), and 
 15 OIII explosures (blue).
-
-![_config.yml]({{ site.baseurl }}/images/na_new.jpg)
 
