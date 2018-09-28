@@ -14,3 +14,5 @@ together. Oh well, I’ll count this one as a learning experience. I made
 this by combining 28 HA exposures (red), 11 SII exposures (green), and 
 15 OIII explosures (blue).
 
+![_config.yml]({{ site.baseurl }}/images/na_new.jpg)
+
