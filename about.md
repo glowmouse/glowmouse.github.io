@@ -9,7 +9,7 @@ telescope builder, and 3D Printer Enthusiast.
 
 ### More Information
 
-Check out my page on Thingiverse: [https://www.thingiverse.com/glowmouse/about](https://www.thingiverse.com/glowmouse/about)
+Check out my page on Thingiverse: [https://www.thingiverse.com/glowmouse](https://www.thingiverse.com/glowmouse)
 
 ### Contact me
 
